@@ -3,6 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "components_abcstorage_application_insight_WorkspaceResourceId": {
+            "defaultValue":"",
             "type": "SecureString"
         },
         "abcchat_site_name": {
