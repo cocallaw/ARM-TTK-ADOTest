@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "components_abcstorage_application_insight_WorkspaceResourceId": {
+            "value": null
+        },
+        "abcchat_site_name": {
+            "value": null
+        },
+        "abcstorage_site_name": {
+            "value": null
+        },
+        "Migration_ActGroup1_name": {
+            "value": null
+        },
+        "Migration_ActGroup2_name": {
+            "value": null
+        },
+        "abcdata_storageacct_name": {
+            "value": null
+        },
+        "abcstorage_appinsight_name": {
+            "value": null
+        },
+        "rule_failure_anomalies_abcstorage_appinsight_name": {
+            "value": null
+        },
+        "abc_appsvcplan_resourceID": {
+            "value": null
+        },
+        "az_region": {
+            "value": ""
+        }
+    }
+}
